@@ -4,8 +4,6 @@ import numpy as np
 import pandas as pd 
 import math
 import requests
-import xmltodict
-import urllib
 
 #the url from wich we'll get the infos
 url = "http://www.torontopolice.on.ca/newsreleases/rss.php"
